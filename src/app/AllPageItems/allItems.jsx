@@ -1,15 +1,4 @@
-import Alberta from "../../../public/alberta.jpg";
-import Dandelion from "../../../public/dandelion.jpg";
-import Drop from "../../../public/drop.jpg";
-import Hills from "../../../public/hills.jpg";
-import Mountains from "../../../public/mountains-hill.jpg";
-import Mountain from "../../../public/mountain.jpg";
-import Birds from "../../../public/bird.jpg";
-import Butterflies from "../../../public/butterflies.jpg";
-import Sunset from "../../../public/sunset.jpg";
-import Trees from "../../../public/trees.jpg";
-import Polynesia from "../../../public/polynesia.jpg";
-import Beach from "../../../public/beach.jpg";
+import Me from "../../../public/me.jpg";
 import {
   FaBriefcase,
   FaComments,
@@ -97,87 +86,87 @@ export const AboutInfoRight = [
 export const FilteringData = [
   {
     id: 6,
-    title: "Alberta",
+    title: "Me",
     category: "html",
-    image: Alberta,
+    image: Me,
   },
   {
     id: 7,
-    title: "Beratch",
+    title: "Me",
     category: "html",
-    image: Beach,
+    image: Me,
   },
   {
     id: 8,
-    title: "Birds",
+    title: "Me",
     category: "html",
-    image: Birds,
+    image: Me,
   },
   {
     id: 9,
-    title: "Butterflies",
+    title: "Me",
     category: "rect",
-    image: Butterflies,
+    image: Me,
   },
   {
     id: 10,
-    title: "dandlion",
+    title: "Me",
     category: "react",
-    image: Dandelion,
+    image: Me,
   },
   {
     id: 11,
-    title: "drop",
+    title: "Me",
     category: "react",
-    image: Drop,
+    image: Me,
   },
   {
     id: 12,
-    title: "Hills",
+    title: "Me",
     category: "next",
-    image: Hills,
+    image: Me,
   },
   {
     id: 13,
-    title: "Mountains",
+    title: "me",
     category: "next",
-    image: Mountains,
+    image: Me,
   },
   {
     id: 14,
-    title: "Mountain",
+    title: "Me",
     category: "next",
-    image: Mountain,
+    image: Me,
   },
   {
     id: 15,
-    title: "Polinesia",
+    title: "Me",
     category: "runing",
-    image: Polynesia,
+    image: Me,
   },
   {
     id: 16,
-    title: "Sunset",
+    title: "Me",
     category: "runing",
-    image: Sunset,
+    image: Me,
   },
   {
     id: 17,
-    title: "Trees",
+    title: "Me",
     category: "runing",
-    image: Trees,
+    image: Me,
   },
   {
     id: 18,
-    title: "Butterflies",
+    title: "Me",
     category: "runing",
-    image: Butterflies,
+    image: Me,
   },
   {
     id: 19,
-    title: "Butterfiles",
+    title: "Me",
     category: "runing",
-    image: Butterflies,
+    image: Me,
   },
 ];
 
@@ -190,7 +179,7 @@ export const BlogItem = [
     user: "stiven",
     date: "20/08/2024",
     lang: "node js, taildwind-css,",
-    image: Alberta,
+    image: Me,
     heading: "How to 1 Own Your Audience by Creating an Email List",
     paragraph:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates adipisci laboriosam id excepturi minima illo officiis ipsa laudantium!",
@@ -204,7 +193,7 @@ export const BlogItem = [
   {
     id: 21,
     type: "image",
-    image: Dandelion,
+    image: Me,
     heading: "How to 2 Own Your Audience by Creating an Email List",
     paragraph: "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
     details:
@@ -217,7 +206,7 @@ export const BlogItem = [
   {
     id: 22,
     type: "image",
-    image: Drop,
+    image: Me,
     heading: "How to  3 Own Your Audience by Creating an Email List",
     paragraph: "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
     details:
@@ -230,7 +219,7 @@ export const BlogItem = [
   {
     id: 23,
     type: "image",
-    image: Hills,
+    image: Me,
     heading: "How to 4  Own Your Audience by Creating an Email List",
     paragraph: "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
     details:
@@ -243,7 +232,7 @@ export const BlogItem = [
   {
     id: 24,
     type: "image",
-    image: Mountains,
+    image: Me,
     heading: "How to 5 Own Your Audience by Creating an Email List",
     paragraph: "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
     details:
@@ -256,7 +245,7 @@ export const BlogItem = [
   {
     id: 25,
     type: "image",
-    image: Polynesia,
+    image: Me,
     heading: "How to 6 Own Your Audience by Creating an Email List",
     paragraph: "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
     details:

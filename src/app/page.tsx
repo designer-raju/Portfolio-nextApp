@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import SunSet from "../../public/sunset.jpg";
+import Son from "../../public/my son.jpg";
 import MoreAboutButton from "@/components/AllButton";
 import { FaArrowRight } from "react-icons/fa";
 import ScrollToFadeInRight from "@/components/ScrollAnimation";
@@ -12,7 +12,7 @@ export default function Home() {
 
       <div className=" w-80 h-60 sm:h-96 m-auto shadow-md shadow-neutral-900 rounded-md overflow-hidden border-red-700 z-50 ">
         <Image
-          src={SunSet}
+          src={Son}
           alt="jpg"
           height={500}
           width={500}
